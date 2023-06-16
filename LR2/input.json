@@ -1,0 +1,1239 @@
+{
+    "students": [
+        {
+            "id": 12170004,
+            "name": "Albert Einstein",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 2
+                },
+                {
+                    "name": "English",
+                    "mark": 4
+                },
+                {
+                    "name": "History",
+                    "mark": 5
+                }
+            ]
+        },
+        {
+            "id": 12170007,
+            "name": "Isaac Newton",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Physics",
+                    "mark": 7
+                },
+                {
+                    "name": "Chemistry",
+                    "mark": 9
+                },
+                {
+                    "name": "Literature",
+                    "mark": 7
+                }
+            ]
+        },
+        {
+            "id": 12170008,
+            "name": "Mary Cury",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 6
+                },
+                {
+                    "name": "English",
+                    "mark": 6
+                },
+                {
+                    "name": "History",
+                    "mark": 6
+                }
+            ]
+        },
+        {
+            "id": 12170009,
+            "name": "Erwin SchrOdinger",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170011,
+            "name": "Alexander Fleming",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170012,
+            "name": "Niels Bohr",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170013,
+            "name": "Robert Oppenheimer",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170014,
+            "name": "George Floyd",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170015,
+            "name": "Frederick Smith",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170016,
+            "name": "Peter Davis",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170017,
+            "name": "Norma Montgomery",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170018,
+            "name": "Jesse Patrick",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170019,
+            "name": "James Hall",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170020,
+            "name": "William Williams",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170021,
+            "name": "Harold Blair",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170022,
+            "name": "Mark Strickland",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170023,
+            "name": "Jeremy Elliott",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170024,
+            "name": "Patricia Rogers",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170025,
+            "name": "Jeff Carr",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170026,
+            "name": "Albert Mason",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170027,
+            "name": "Oscar Ward",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170028,
+            "name": "Dorothy Ferguson",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170029,
+            "name": "Heron Brooks",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170032,
+            "name": "Sheila Young",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170033,
+            "name": "Cynthia Hayes",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170034,
+            "name": "Alma Dunn",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170035,
+            "name": "Robert Thompson",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170036,
+            "name": "Sheila Tucker",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170037,
+            "name": "Christina Martinez",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170038,
+            "name": "Linda Cooper",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170039,
+            "name": "Teresa Spencer",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170040,
+            "name": "Alfred McKinney",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170041,
+            "name": "Nicholas Davis",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170042,
+            "name": "Vernon Smith",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170043,
+            "name": "Ruth Kennedy",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170044,
+            "name": "Arthur Jackson",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170045,
+            "name": "James Brown",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170046,
+            "name": "Gerald Manning",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170047,
+            "name": "Ricky Anderson",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170048,
+            "name": "Stephanie Warner",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170049,
+            "name": "Gina Hill",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170050,
+            "name": "Cody Cruz",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170051,
+            "name": "Sarah Barnes",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170052,
+            "name": "Jason Barker",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170053,
+            "name": "Elizabeth Taylor",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170054,
+            "name": "Margaret Vasquez",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170055,
+            "name": "Darrell Walker",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170056,
+            "name": "Esther Diaz",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170057,
+            "name": "Richard Bell",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170058,
+            "name": "Arthur Phillips",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170059,
+            "name": "Jessica Santos",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170060,
+            "name": "Patricia Cole",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170061,
+            "name": "Clinton Rodriguez",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170062,
+            "name": "Chad Torres",
+            "group": 2,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170063,
+            "name": "Larry West",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170064,
+            "name": "Larry Ramirez",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170065,
+            "name": "Richard Brooks",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170066,
+            "name": "Michael Sanders",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170067,
+            "name": "John Schwartz",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170068,
+            "name": "Douglas Williams",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170069,
+            "name": "Catherine Hopkins",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170070,
+            "name": "James Allen",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170071,
+            "name": "Mary Wright",
+            "group": 3,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 12170072,
+            "name": "Barry Ellis",
+            "group": 1,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        },
+        {
+            "id": 2222222,
+            "name": "Artem\t",
+            "group": 2222,
+            "courses": [
+                {
+                    "name": "Math",
+                    "mark": 8
+                },
+                {
+                    "name": "English",
+                    "mark": 10
+                },
+                {
+                    "name": "History",
+                    "mark": 8
+                }
+            ]
+        }
+    ]
+}
